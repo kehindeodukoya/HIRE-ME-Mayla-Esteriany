@@ -1,0 +1,51 @@
+p{
+font-family: 'Mali', cursive;
+}
+h1{
+font-family: 'K2D', sans-serif;
+}
+img{
+width:300px; 
+border: 2px solid;
+color: blue;
+height:400px;
+font-family: 'Charmonman', cursive;
+}
+h2{
+    align-content: center;
+}   
+body{
+background-color:yellow;
+}
+h2{
+color:Red;   
+}
+li{
+color:orange;  
+}
+h1{
+color:red;       
+}
+h1{
+text-decoration:red;  
+}
+h1
+hover{
+background-color:blue; 
+}
+h3{
+color:Yellow;  
+}
+h4{
+color:blue;
+font-family: 'Charmonman', cursive;
+}
+li{
+font-family: 'Kodchasan', sans-serif;    
+}
+body{
+background-image: url("https://plustvafrica.com/wp-content/uploads/ella-1-e1532789196216-768x432.jpg");
+     Background-size: 100%;
+    }
+    
+    
